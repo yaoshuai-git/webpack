@@ -1,0 +1,1 @@
+console.log('这是主要index文件')
